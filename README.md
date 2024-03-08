@@ -29,4 +29,4 @@ ICEYE, 2024
 
 ## License
 
-CC BY 4.0 
+CC BY 1.0 
