@@ -26,7 +26,3 @@ The product filename components are shown below. The Product ID is a unique iden
 ## Attribution
 
 ICEYE, 2024
-
-## License
-
-CC BY 4.0 
